@@ -1,0 +1,12 @@
+5futsal or soccer ball:1
+3shin pads:2
+4goalkeeper gloves:3
+5tennis balls:4
+7tennis racquet:5
+5volley ball:6
+30team bib:7
+5takraw ball:8
+5shuttelcocks:9
+7badminton racquet:10
+5squash balls:11
+7squash racquet:12
